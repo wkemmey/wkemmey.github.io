@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2015-07-29
+img: ssbn.png
+alt: Trident nuclear missile launch
+project-date: 2002 - 2014
+client: U.S. Navy
+category: Software Development and Management
+description: Served as a Lead Computer Scientist for the development of the U.S. Navy Trident nuclear missile launch and mission control system.  The Trident missile is a submarine-launched ballistic missile which launches from a moving underwater platform, flies into space, guides itself by the stars, and lands multiple free-falling warheads with pinpoint accuracy.  I wrote launch and mission control software, and managed the group that delivered embedded computing infrastructure for the system.
+
+---

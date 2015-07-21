@@ -2,7 +2,7 @@
 title: Whit Kemmey
 email: whit.kemmey@gmail.com
 url: http://www.whitkemmey.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Whit Kemmey - Software Developer, Software Architect, and Systems Engineer"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -37,24 +37,23 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: github
+    url: http://github.com/wkemmey
   - title: twitter
     url: http://twitter.com/wkemmey
-  - title: facebook
-    url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://stackoverflow.com/users/716066/whit-kemmey
+  - title: facebook
+    url: https://www.facebook.com/whit.kemmey
+  - title: linkedin
+    url: https://www.linkedin.com/in/whitkemmey
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Fredericksburg, VA 22408
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Generated with <a href="http://jekyllrb.com">Jekyll</a>, hosted by <a href="https://github.com">GitHub</a>, and styled with <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

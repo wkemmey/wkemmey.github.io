@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2015-07-31
+img: rmbrance.png
+alt: RMbrance
+project-date: 2015
+client: Cofounder
+category: WebDevelopment
+description: Cofounded RMbrance, a company which creates hard-cover scrapbooks from multiple years of letters and photos. Built <a href="https://www.rmbrance.com">www.rmbrance.com</a>, where customers can order a book in less than five minutes. Automated email extraction, photo layout, .pdf generation, and printing.
+
+---

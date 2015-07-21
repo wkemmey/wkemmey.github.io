@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2015-07-30
+img: musterme.png
+alt: Muster Me
+project-date: 2014
+client: Cofounder
+category: Web Development
+description: Cofounded Muster Me, a company which connects people at meetings and events. Developed core technologies around text messaging and free-form text parsing, as well as the web site <a href="https://www.musterme.com">www.musterme.com</a>. Won a regional business plan competition. Used at over 100 events.
+
+---

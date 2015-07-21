@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2015-07-28
+img: ssgn.png
+alt: Tomahawk missile tubes aboard an SSGN
+project-date: 2004 - 2008
+client: U.S. Navy
+category: Software Development and Management
+description: The SSGN program re-purposed old ballistic nuclear missile submarines for use in conventional warfare.  The image shows a large missile tube converted to hold seven Tomahawk cruise missiles, giving each submarine the capability to launch 154 missiles!  This project was accomplished at high speed with low cost by integrating the Tomahawk mission control software from other platforms with the modified launch control software from the nuclear missle submarine.
+
+---
